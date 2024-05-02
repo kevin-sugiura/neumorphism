@@ -10,9 +10,6 @@ body{
   min-height: 100vh;
   background: rgb(105, 105, 105);
 }
-h1{
-  color: red;
-}
 .clock{
   width: 350px;
   height: 350px;
